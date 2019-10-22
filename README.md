@@ -1,34 +1,13 @@
-# socket-tester
+# Socket Tester
 
-## Project setup
-```
-yarn install
-```
+Project created to test socket events. Simple but great.
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+![](./doc/assets/screen1.png)
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+### Features
 
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Run your unit tests
-```
-yarn run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Create different commands
+- Export data
+- Import data
+- Lock scroll from logger panel
+- Delete logging data
